@@ -64,6 +64,5 @@ C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\bin\Microsoft.Owin.Se
 C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\obj\Debug\IepProject.csprojResolveAssemblyReference.cache
 C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\obj\Debug\IepProject.dll
 C:\Users\Hp\Documents\GitHub\IepRepo\IepProject\IepProject\obj\Debug\IepProject.pdb
